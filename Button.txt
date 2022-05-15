@@ -1,0 +1,11 @@
+Fazer 3 botões
+ ultimo colocar [1/4] para lista qual Pagina
+Tipo assim
+"Proxima Pagina [2/4]"
+"Proxima Pagina [3/4]"
+"Proxima Pagina [4/4]"
+"Proxima Pagian [1/4]"
+
+Como vai funcionar o Pre Cadastro... Por WhatsApp
+
+
